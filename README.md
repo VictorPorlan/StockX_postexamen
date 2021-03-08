@@ -1,2 +1,2 @@
 # StockX
-Examen practico de Java
+Este es el examen de Java de la primera evaluación de programación hecho de forma independiente. El programa pretende replicar el funcionamiento de la tienda StockX, que es una tienda de zapatos online, en la cual puedes vender y comprar zapatos de segunda mano. Lo complejo de este programa es la creación del sistema de Bids, Asks, Sales, que se clasifican como foertas que puedes realizar o que te pueden mandar. Además de esto, tambien tenemos que crear unos filtros en caso de que quieras buscar de una forma especifica entre todas las ofertas, como por ejemplo, encontrar cual es la máxima bid que se ha hecho por un zapato, o ver todas las asks, etc.
